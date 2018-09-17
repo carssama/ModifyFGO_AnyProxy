@@ -7,7 +7,7 @@
 3. 新建debug,trunfile,profile三个目录
 4. 下载[AnyProxy](https://github.com/alibaba/anyproxy)
 5. 解压到科技目录下
-正确操作的目录树如下
+正确操作的目录树如下  
 -Folder  
 |-anyproxy  
 ||-bin  
