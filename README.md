@@ -8,16 +8,16 @@
 4. 下载[AnyProxy](https://github.com/alibaba/anyproxy)
 5. 解压到科技目录下
 正确操作的目录树如下
--Folder
-|-anyproxy
-||-bin
-||-...
-|-debug
-|-trunfile
-|-profile
-|-fgo.js
-|-node.msi
-|-README.md
-|-run.bat
-|-xfgo_v1.5.apk
+-Folder  
+|-anyproxy  
+||-bin  
+||-...  
+|-debug  
+|-trunfile  
+|-profile  
+|-fgo.js  
+|-node.msi  
+|-README.md  
+|-run.bat  
+|-xfgo_v1.5.apk  
 6. 双击run.bat开启科技（可能提示没有安装node.js或nodemon，按照提示安装即可）
